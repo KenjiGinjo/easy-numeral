@@ -1,0 +1,37 @@
+{
+  "name": "easy-numeral",
+  "version": "0.0.1",
+  "description": "Format and manipulate numbers.",
+  "license": "MIT",
+  "author": {
+    "name": "Kenji Ginjo",
+    "email": "kenjiginjo@gmail.com",
+    "url": "http://github.com/KenjiGinjo"
+  },
+  "keywords": [
+    "numeral",
+    "number",
+    "format",
+    "money",
+    "percentage",
+    "bytes",
+    "currency",
+    "bun"
+  ],
+  "main": "./numeral.js",
+  "engines": {
+    "node": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KenjiGinjo/easy-numeral"
+  },
+  "bugs": {
+    "url": "https://github.com/KenjiGinjo/easy-numeral/issues"
+  },
+  "scripts": {
+    "test": "grunt"
+  },
+  "devDependencies": {
+  }
+}

@@ -1,6 +1,6 @@
 {
   "name": "easy-numeral",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Format and manipulate numbers.",
   "author": {
     "name": "Kenji Ginjo",
@@ -59,7 +59,6 @@
     "simple-git-hooks": "^2.11.1",
     "typescript": "^5.4.5"
   },
-
   "simple-git-hooks": {
     "pre-commit": "npx lint-staged",
     "commit-msg": "npx commitlint --edit $1"
